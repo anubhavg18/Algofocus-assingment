@@ -5,6 +5,10 @@ run npm install
 
 run npm start
 
+http://localhost:3000/api/vehicles
+
+select headers- content-Type -application/json
+
 send data by postman in json like in this format 
 {
 	"make":"jeep",
